@@ -1,0 +1,37 @@
+
+.App{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    padding-top: 20px;
+}
+
+
+#inputApp{
+    height: 25px;
+    text-align: center;
+    width: 250px;
+}
+
+#buttonApp{
+    height: 25px;
+    text-align: center;
+    width: 260px;
+    color: aquamarine;
+}
+
+button a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    padding-top: 20px;
+}
+
+
